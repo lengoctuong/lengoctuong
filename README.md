@@ -7,4 +7,4 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently learning Data Science on VNU_HCMUS.
-- 📫 How to reach me: [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/ngọc-tường-lê-9ba43b274/) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/lengoctuong/)
+- 📫 How to reach me: [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/ngoc-tuong-le-9ba43b274/) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/lengoctuong/)
