@@ -13,7 +13,7 @@ My name's Le Ngoc Tuong. I am interested in the following topics: Data Science, 
 
 [![Prj-Research-TFX_Intro2Big-Data](https://github-readme-stats.vercel.app/api/pin/?username=lengoctuong&repo=Prj-Research-TFX_Intro2Big-Data&theme=github_dark)](https://github.com/lengoctuong/Prj-Research-TFX_Intro2Big-Data)
 
-[![Prj-Research-TFX_Intro2Big-Data](https://github-readme-stats.vercel.app/api/pin/?username=ntp-shin&repo=Introduction_to_Data_Science&theme=github_dark)](https://github.com/lengoctuong/https://github.com/ntp-shin/Introduction_to_Data_Science)
+[![Prj-Research-TFX_Intro2Big-Data](https://github-readme-stats.vercel.app/api/pin/?username=ntp-shin&repo=Introduction_to_Data_Science&theme=github_dark)](https://github.com/ntp-shin/Introduction_to_Data_Science)
 ---
 
 ## ✨ My Languages
